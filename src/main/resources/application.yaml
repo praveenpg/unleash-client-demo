@@ -1,0 +1,7 @@
+io:
+  getunleash:
+    app-name: springboot-example
+    instance-id: my-instance
+    environment: development
+    api-url: "http://localhost:4242/api"
+    api-token: "*:development.4d0dbec2eb346934d01b8b0cff3f290a53b9bc5a4a64f5f8ca29520c"
